@@ -1,5 +1,5 @@
 # Coursework
-## My second coursework in SkillBox <br>
+## My coursework in SkillBox <br>
 Данная работа состоит из двух основных частей.<br>
 **1 Часть.**<br>
 В первой части я подготовила небольшой аналитический отчет для HR-отдела вымышленной компании.
